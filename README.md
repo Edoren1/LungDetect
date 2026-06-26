@@ -1,4 +1,13 @@
-# LungDetect
-What it does: A neural-network based AI app that identifies tuberculosis, pneumonia, COVID-19, or healthy lungs from chest x-rays. Trained on 5000+ real scans, prototyped with 8 different AI models, and achieving 88% average accuracy. Images can be uploaded, or you can use the example images built in.
+LungDetect
 
-Project link: https://replit.com/join/inrzodlpjemfluf-dhilangurtoo
+An AI-powered web app that analyzes chest X-rays to identify tuberculosis, COVID-19, pneumonia, or healthy lungs.
+
+Live Demo: https://replit.com/join/inrzodlpjemfluf-dhilangurtoo
+
+What It Does
+
+LungDetect uses artificial intelligence to classify chest X-ray images into one of four categories: Tuberculosis, COVID-19, Pneumonia, or Healthy. Users can upload an X-ray image and receive a prediction within seconds, or just use built-in examples, making it a simple tool for demonstrating AI-assisted medical image analysis.
+
+Tech Stack
+- Python
+- TensorFlow / Keras
